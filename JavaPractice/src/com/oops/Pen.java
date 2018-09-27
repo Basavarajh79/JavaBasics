@@ -1,0 +1,8 @@
+package com.oops;
+
+public class Pen {
+	void write(){
+		System.out.println("writing....");
+	}
+
+}
